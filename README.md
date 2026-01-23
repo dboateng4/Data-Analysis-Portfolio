@@ -1,7 +1,7 @@
 # Customer_Behavior_Analysis_Portfolio
 This is my data analytics showcasing customer behavior analysis using Python, SQL, and Power Bi.
 
-📊 Data Analytics Project – Customer Shopping Behavior
+# 📊 Data Analytics Project – Customer Shopping Behavior
 Overview
 
 This project demonstrates an end-to-end data analytics workflow, from raw data ingestion to business insights and visualization.
