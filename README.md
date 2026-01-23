@@ -92,6 +92,7 @@ Designed for clarity, interactivity, and executive-level insight.
 ### Python Analysis
 ```bash
 - pip install pandas numpy matplotlib seaborn
+```
 - Open the Jupyter Notebook
 - Run all cells to reproduce the analysis
 
