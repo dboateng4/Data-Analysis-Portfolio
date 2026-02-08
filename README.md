@@ -33,6 +33,26 @@ I'll provide a brief overview of data analytics projects in this area, along wit
 - Identified high-value customer segments based on spending behavior
 - Highlighted top-performing product categories
 - Discovered purchasing trends useful for targeted marketing strategies
+
+### Healthcare Data Analysis
+**Objective:** Analyze healthcare data to explore patient trends, treatment outcomes, and potential areas for operational improvement.
+
+**Skills:** Python(Pandas, Matplotlib, Seaborn)
+
+**Key Analysis Performed:**
+- Data cleaning and handling missing values
+
+- Exploratory Data Analysis (EDA)
+
+- Data visualization to identify trends and anomalies
+
+**Key Insights:**
+
+- Identified patterns in patient demographics
+
+- Analyzed treatment distributions and outcomes
+
+- Highlighted potential factors impacting healthcare efficiency
   
 ## Education
 Metropolitan State University of Denver: 
