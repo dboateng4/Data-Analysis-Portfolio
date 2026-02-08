@@ -13,6 +13,26 @@ This is a repository where I showcase my skills, share projects and track my pro
 ## Portfolio Projects
 I'll provide a brief overview of data analytics projects in this area, along with the technology stack that's utilized to address issues.
 
+### Customer Shopping Behavior Analysis
+**Objective:** Analyze customer purchasing behavior to uncover spending patterns, popular product categories, and customer segmentation insights that can support marketing and business decisions.
+
+**Skills:** Python, SQL(MySQL), Power BI
+
+**Key Analysis Performed:**
+- Data cleaning and preprocessing using Python 
+
+- Exploratory Data Analysis to identify trends and patterns
+
+- SQL queries to answer business questions such as:
+  - Top-spending customers
+  - Most popular product categories
+  - Average order value by customer segment
+- Power BI dashboard with KPIs and interactive visualizations
+
+**Key Insights:**
+- Identified high-value customer segments based on spending behavior
+- Highlighted top-performing product categories
+- Discovered purchasing trends useful for targeted marketing strategies
   
 ## Education
 Metropolitan State University of Denver: 
