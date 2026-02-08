@@ -60,7 +60,7 @@ Bachelor's degree, Computer Information Systems,
 Aug 2021 - May 2025
 
 ## Contacts
-- LinkedIn: (linkedin.com/in/dylan-kusi-boateng)
+- LinkedIn: [@dylan-kusi-boateng](linkedin.com/in/dylan-kusi-boateng)
 - Email: dylanboateng11@gmail.com
 - Phone Number: (720) 226-6541
 
