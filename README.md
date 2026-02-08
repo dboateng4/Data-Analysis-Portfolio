@@ -14,6 +14,14 @@ This is a repository where I showcase my skills, share projects and track my pro
 I'll provide a brief overview of data analytics projects in this area, along with the technology stack that's utilized to address issues.
 
 ### Customer Shopping Behavior Analysis
+**Files:**
+
+[`cleaned_customer_shopping_behavior.csv`](https://github.com/dboateng4/Data-Analysis-Portfolio/blob/main/cleaned_customer_shopping_behavior.csv) - Cleaned dataset used for analysis
+
+[`customer_shopping_behavior.sql`](https://github.com/dboateng4/Data-Analysis-Portfolio/blob/main/customer_shopping_behavior_sql.sql) - SQL queries for business questions
+
+[`customer_shopping_behavior.pbix`](https://github.com/dboateng4/Data-Analysis-Portfolio/blob/main/customer_shopping_behavior_pbi.pbix) - Interactive Power BI dashboard
+
 **Objective:** Analyze customer purchasing behavior to uncover spending patterns, popular product categories, and customer segmentation insights that can support marketing and business decisions.
 
 **Skills:** Python, SQL(MySQL), Power BI
@@ -35,6 +43,8 @@ I'll provide a brief overview of data analytics projects in this area, along wit
 - Discovered purchasing trends useful for targeted marketing strategies
 
 ### Healthcare Data Analysis
+**Code:** [`Healthcare Data Analysis.ipynb`](https://github.com/dboateng4/Data-Analysis-Portfolio/blob/main/Healthcare_Data_Analysis.ipynb)
+
 **Objective:** Analyze healthcare data to explore patient trends, treatment outcomes, and potential areas for operational improvement.
 
 **Skills:** Python(Pandas, Matplotlib, Seaborn)
